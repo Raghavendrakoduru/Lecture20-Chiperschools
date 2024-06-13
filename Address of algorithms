@@ -1,0 +1,6 @@
+include<iostream>
+using namespace std;
+int main(){
+  int a =12;
+  cout<<"The adresses of a is:"<<&a<<" " <<"The size of a is:"<<sizeof(a)<<endl;
+}
